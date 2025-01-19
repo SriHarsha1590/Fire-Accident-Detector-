@@ -23,7 +23,7 @@ while True:
         send_email(
             subject="Fire Detected",
             body="A fire has been detected in the monitored area.",
-            to_email="22eg105n64@anurag.edu.in" 
+            to_email="receiver mail adress" 
         )
       
         fire_alert_triggered = True
